@@ -11,3 +11,5 @@ Install gTTS - pip install gTTS
 Install pygame - pip install pygame
 
 ![ScreenShot](https://github.com/bagidea/pyqt5_sample/blob/master/preview.png)
+
+![ScreenShot](https://github.com/bagidea/pyqt5_sample/blob/master/preview2.png)
